@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GITHUB USERS</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_search">Search</string>
+    <string name="nama_user">Alesya Kelana Sabira</string>
+    <string name="followers">200 Followers</string>
+    <string name="following">300 Following</string>
+    <string name="btn_detail">Detail</string>
+    <string name="title_tab_github_user_s">GITHUB USER\'S</string>
+    <string name="account">ACCOUNT</string>
+    <string name="name_profile">Dheni Yulia Dinda Pratiwi</string>
+    <string name="username_profile">dindap</string>
+    <string name="company_profile">Google, Inc.</string>
+    <string name="location_profile">Canada</string>
+    <string name="repo_profile">Repositories</string>
+    <string name="activity_profile">Activity</string>
+    <string name="hasil_pencarian">Hasil Pencarian</string>
+    <string name="detail_user">DETAIL USER</string>
+    <string name="username">dinda.p</string>
+    <string name="name">Dheni Yulia Dinda Pratiwi</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="public_repo">120</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">FOLLOWERS</string>
+    <string name="tab_text_2">FOLLOWING</string>
+    <string name="search_user">SEARCH USER</string>
+    <string name="followers_detal">FOLLOWERS</string>
+    <string name="following_detail">FOLLOWING</string>
+    <string name="dinda_pratiwi">Dinda Pratiwi</string>
+    <string name="_20">20</string>
+    <string name="_50">50</string>
+
+</resources>
